@@ -1,0 +1,31 @@
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  width: 150px;
+  text-align: right;
+}
+
+.contact td{
+  margin-left: 10px;
+}
+
+.text{
+  width: 480px;
+}
+.content tr:last-child td{
+  text-align: center;
+}
+
+.submit{
+  font-size: 3rem;
+  color: white;
+  background-color: #008B8B;
+  padding: 10px;
+  border: none;
+}
+
+.submit:hover{
+  opacity: 0.5;
+}

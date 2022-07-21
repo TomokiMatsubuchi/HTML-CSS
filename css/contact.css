@@ -14,9 +14,6 @@
 .text{
   width: 480px;
 }
-.content tr:last-child td{
-  text-align: center;
-}
 
 .submit{
   font-size: 3rem;
@@ -28,4 +25,8 @@
 
 .submit:hover{
   opacity: 0.5;
+}
+
+.center{
+  text-align: center;
 }
